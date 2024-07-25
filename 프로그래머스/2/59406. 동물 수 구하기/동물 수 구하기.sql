@@ -1,0 +1,3 @@
+SELECT COUNT(ANIMAL_ID) AS count
+from ANIMAL_INS 
+;
